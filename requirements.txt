@@ -25,7 +25,7 @@ wget
 pytz
 youtube-search-python
 youtube-search
-yt-dlp==2023.2.17
+yt-dlp==2023.7.6
 speedtest==0.0.1
 dnspython 
 hachoir
