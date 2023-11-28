@@ -10,7 +10,7 @@ cinemagoer==2023.5.1
 shortzy==0.0.8
 datetime
 pytz==2023.3.post1
-aiohttp==3.8.6
+aiohttp==3.9.0
 telegraph==2.2.0
 googletrans==3.1.0a0
 youtube-search-python
